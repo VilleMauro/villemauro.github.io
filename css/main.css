@@ -622,7 +622,7 @@ h4 {
   .show-mobile-menu {
     display: block;
     float: right;
-    font-size: 1.3rem;
+    font-size: 1rem;
     margin-top: 1.5vh;
     padding: 1.5em;
     position: relative;
